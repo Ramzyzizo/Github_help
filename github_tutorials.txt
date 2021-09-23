@@ -1,3 +1,5 @@
+
+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
 Repostiry:مستودع  : repo
 Branch : فرع 
 Local Repo 
@@ -32,8 +34,10 @@ ____
 - git config -l --show origion = place of every config
 - git config --global --unset user.name = set empty username
 - git config --global --edit
-
+- touch newfile.txt = create file
+- ssh-keygen -t rsa -b 4096 -C "www.ramzysaad16@gmail.com" = Generate public key
 - git init = make file ready to be repo
+
 
 
 
