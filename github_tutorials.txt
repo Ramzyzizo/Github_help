@@ -1,0 +1,40 @@
+Repostiry:مستودع  : repo
+Branch : فرع 
+Local Repo 
+Remote Repo : للشركة
+Commit :checkpoint
+Clone : نسخ
+push : upload to remote
+pull: pull from remote to local
+pull request : tell other you made changes and ready to upload
+____
+stages:
+working directory > stagign areas > local repo > remote repo
+		git add file_name>      git commit -m"nots">     git push remote_name branch_name
+____
+##syntax
+- git clone link : download files
+- git status : بيقولى ايه اللى مترفعش
+- git add : upload to stage waiting to commit
+- git reset head : restore from stage to un stage
+- git commit -m"messagenote" : from stage to local
+- git branch  = know branches
+- git remote -v = Remote_name
+- git pull remote_name = clone and merge
+- git config --list 
+	or git config -l = configuration github 
+
+- git help config = page of config tutorial
+- git config --global user.email  = email
+- git config --global user.email "New email" = set new email
+- git config --global user.name  = name
+- git config --global user.name "New name" = set new name
+- git config -l --show origion = place of every config
+- git config --global --unset user.name = set empty username
+- git config --global --edit
+
+- git init = make file ready to be repo
+
+
+
+
